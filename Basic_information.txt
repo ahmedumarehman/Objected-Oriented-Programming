@@ -1,0 +1,7 @@
+Name            : Hairs
+Father's Name   : Ahmed
+Date Of Birth   : 11103
+Age             : 19
+CNIC            : 37405-1448066-7
+Nationality     : Israili
+Status          : Widower
